@@ -2,7 +2,7 @@
 
 A small Google Apps Script that picks a week of dinners from your recipe list, combines
 the ingredients into one shopping list, and emails it to you. It's built from
-[this Reddit comment](https://www.reddit.com/) describing that routine:
+a Reddit comment describing that routine:
 
 - **Mon/Tue**: one curry (Indian or Thai), cooked once, eaten twice
 - **Wed/Thu**: one big-pot meal (bolognese, stew, chilli…), cooked once, eaten twice
