@@ -1,0 +1,9 @@
+{
+  "name": "meal-planner",
+  "private": true,
+  "description": "Weekly meal plan + combined shopping list, emailed by Google Apps Script",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "preview": "node preview.js"
+  }
+}
